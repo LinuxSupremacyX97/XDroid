@@ -15,12 +15,12 @@ git config --global user.name "YOUR-USERNAME-FROM-EMAIL-ID"
 
 ##### 1. Clone ux-up repo
 ```bash
-git clone https://github.com/ashwinstr/ux-up.git
+git clone https://github.com/MatrixMenXD/XDroid_Updater.git
 ```
 
 ##### 2. Run the script
 ```bash
-cd ux-up && sh s*
+cd XDroid_Updater && sh s*
 ```
 
 ![logo](https://telegra.ph/file/5d7ae2ff8065f57ee5e4b.jpg)
