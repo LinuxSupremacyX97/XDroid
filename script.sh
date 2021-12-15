@@ -20,7 +20,7 @@ echo "Updating your ${repo} repo..."
 echo " "
 
 git add .
-git commit -m "Windows/termux merge"
+git commit -m "upstreamed merge"
 git push
 echo " "
 echo "### UPDATED ###"
