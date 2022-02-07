@@ -2,11 +2,11 @@
 
 . $PWD/creds.sh
 
-### update script for USERGE-X by @Kakashi_HTK/@ashwinstr ###
+### Updater Sript For CyborgXDroid By @Kakashi_HTK/@ashwinstr ###
 
 cd ..
 echo " "
-echo """### You're running the USERGE-X fork update script. ###"""
+echo """### You're Running The CyborgXDroid Updater Script. ###"""
 echo " "
 
 git clone https://github.com/${username}/${repo}
@@ -16,15 +16,15 @@ git pull ${upstream}
 git diff
 
 echo " "
-echo "Updating your ${repo} repo..."
+echo "Updating Your ${repo} repo..."
 echo " "
 
 git add .
-git commit -m "upstreamed merge"
+git commit -m "Upstreamed Merged"
 git push
 echo " "
-echo "### UPDATED ###"
+echo "### Successfully Updated ###"
 echo " "
-echo "### NOTE: Based on the conflicts occured in this merge, you might need to remove '<<<<<HEAD' from the merged repo or it might crash the bot. ###"
+echo "### NOTE: Based On The Conflicts Occured In This Merge, You mi8ght Need To Remove '<<<<<HEAD' From The Merged Repo Or It Might Crash The CyborgXDroid. ###"
 echo " "
 cd ..
