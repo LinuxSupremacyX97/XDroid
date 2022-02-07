@@ -25,6 +25,6 @@ git push
 echo " "
 echo "### Successfully Updated ###"
 echo " "
-echo "### NOTE: Based On The Conflicts Occured In This Merge, You mi8ght Need To Remove '<<<<<HEAD' From The Merged Repo Or It Might Crash The CyborgXDroid. ###"
+echo "### NOTE: Based On The Conflicts Occured In This Merge, You Might Need To Remove '<<<<<HEAD' From The Merged Repo Or It Might Crash The CyborgXDroid. ###"
 echo " "
 cd ..
