@@ -16,7 +16,7 @@ git pull ${upstream}
 git diff
 
 echo " "
-echo "Updating Your ${repo} repo..."
+echo "Updating Your ${repo} Repo..."
 echo " "
 
 git add .
