@@ -1,7 +1,7 @@
-# # Automatic Updater For USERGE-X using android (termux)
+# # CyborgXDroid Updater Script Via Using {Termux}
 
 
-### First time setup for termux.
+### First Time Setup For Termux.
 
 ```bash
 git config --global pull.rebase false
@@ -13,14 +13,16 @@ git config --global user.email "YOUR-EMAIL-ID"
 git config --global user.name "YOUR-USERNAME-FROM-EMAIL-ID"
 ```
 
-##### 1. Clone ux-up repo
+##### 1. Clone XDroid Repo
 ```bash
-git clone https://github.com/MatrixMenXD/XDroid_Updater.git
+git clone https://github.com/LinuxSupremacyX97/XDroid.git
 ```
 
 ##### 2. Run the script
 ```bash
-cd XDroid_Updater && sh s*
+cd XDroid && sh s*
 ```
 
-![logo](https://telegra.ph/file/5d7ae2ff8065f57ee5e4b.jpg)
+![logo](https://telegra.ph/file/563837701b4f6753d675a.jpg)
+
+### Don't Forget To Nuke Conflicts ;)
